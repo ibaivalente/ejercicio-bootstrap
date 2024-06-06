@@ -1,0 +1,19 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+@media (max-width: 576px) {
+    h1 {
+      font-size: 3rem;
+    }
+  }
+
+h2 {
+    font-size: 3rem;
+}
